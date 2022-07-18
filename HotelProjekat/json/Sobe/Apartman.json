@@ -1,0 +1,20 @@
+[
+  {
+    "kvadratura":55.2,
+    "brojSoba":4,
+    "brojKreveta":3,
+    "cena":7500
+  },
+  {
+    "kvadratura":61.3,
+    "brojSoba":4,
+    "brojKreveta":4,
+    "cena":7900
+  },
+  {
+    "kvadratura":66.8,
+    "brojSoba":5,
+    "brojKreveta":4,
+    "cena":8500
+  }
+]
